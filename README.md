@@ -2,6 +2,8 @@
 
 Beta de un radar diario de **contratos públicos** y **convocatorias de subvenciones** en España. Datos oficiales, sin registro para consultar, coste 0 € mientras quepa en los planes gratuitos.
 
+> Repo público a propósito: GitHub Actions es gratis en repos públicos. No hay secretos ni datos privados; solo código y datos públicos.
+
 ## Qué hace
 
 - Descarga cada día las licitaciones del feed Atom de **PLACE** (Contratación del Estado).
