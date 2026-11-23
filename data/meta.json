@@ -1,0 +1,12 @@
+{
+ "generated_at": "2026-11-23T21:24:53Z",
+ "total": 298,
+ "new": 298,
+ "contracts": 98,
+ "grant_calls": 200,
+ "errors": [],
+ "sources": [
+  "PLACE",
+  "BDNS convocatorias"
+ ]
+}
