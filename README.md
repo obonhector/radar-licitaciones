@@ -12,6 +12,12 @@ Beta de un radar diario de **contratos públicos** y **convocatorias de subvenci
 - Publica una web estática con filtros por tipo, territorio, importe y texto.
 - Deja `data/latest.json` con lo nuevo de la pasada, listo para un email diario.
 
+## Demo en vivo
+
+**https://radar-licitaciones-eight.vercel.app/**
+
+Beta desplegada en Vercel. Repo: https://github.com/obonhector/radar-licitaciones
+
 ## Arquitectura 0 €
 
 ```
@@ -19,10 +25,12 @@ GitHub Actions (cron diario)
   → scripts/fetch.py (stdlib)
   → data/items.json + latest.json
   → commit al repo
-  → GitHub Pages / Cloudflare Pages
+  → Vercel (auto-deploy desde main)
 ```
 
 No hay servidor, base de datos ni cola. Todo es estático.
+
+**Por qué el repo es público:** GitHub Actions es gratis en repos públicos. No hay secretos ni datos privados; solo código y datos públicos. Vercel Hobby es gratis para beta; antes de cobrar, mover a Cloudflare Pages (comercial permitido).
 
 ## Coste real
 
