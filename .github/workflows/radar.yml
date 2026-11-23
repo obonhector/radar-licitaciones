@@ -1,0 +1,44 @@
+name: radar
+
+on:
+  schedule:
+    - cron: "15 5 * * *"   # 06:15 UTC ≈ 07:15 Europe/Madrid
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: radar
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Fetch data
+        run: python scripts/fetch.py --out data
+      - name: Copy data to site
+        run: |
+          rm -rf site/data
+          cp -r data site/data
+      - name: Commit data
+        run: |
+          git config user.name "radar-bot"
+          git config user.email "radar-bot@users.noreply.github.com"
+          git add data site/data
+          if ! git diff --cached --quiet; then
+            git commit -m "data: radar $(date -u +%F)"
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - uses: actions/deploy-pages@v4
