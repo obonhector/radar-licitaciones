@@ -7,8 +7,6 @@ on:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
 
 concurrency:
   group: radar
@@ -37,8 +35,5 @@ jobs:
             git commit -m "data: radar $(date -u +%F)"
             git push
           fi
-      - uses: actions/configure-pages@v5
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: site
-      - uses: actions/deploy-pages@v4
+      # Vercel está enlazado a este repo: el commit de data/ dispara el deploy.
+      # No usamos GitHub Pages para evitar el límite de sitios comerciales.
