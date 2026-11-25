@@ -464,6 +464,38 @@
   "source": "BDNS convocatorias"
  },
  {
+  "id": "bdns-call-1146109",
+  "type": "grant_call",
+  "title": "Subvención directa a la Fundación Helga de Alvear por Real Decreto 614/2026, de 22 de julio, por el que se regula la concesión directa de subvenciones a entidades relacionadas con el patrimonio cultural y las bellas artes en el año 2026.",
+  "summary": "Subvención directa a la Fundación Helga de Alvear por Real Decreto 614/2026, de 22 de julio, por el que se regula la concesión directa de subvenciones a entidades relacionadas con el patrimonio cultural y las bellas artes en el año 2026.",
+  "organ": "DIRECCIÓN GENERAL DE PATRIMONIO CULTURAL Y BELLAS ARTES",
+  "location": "MINISTERIO DE CULTURA",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "ESTADO",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146109",
+  "source": "BDNS convocatorias"
+ },
+ {
+  "id": "bdns-call-1146108",
+  "type": "grant_call",
+  "title": "Subvención directa a la Fundación Díaz Caneja por Real Decreto 614/2026, de 22 de julio, por el que se regula la concesión directa de subvenciones a entidades relacionadas con el patrimonio cultural y las bellas artes en el año 2026.",
+  "summary": "Subvención directa a la Fundación Díaz Caneja por Real Decreto 614/2026, de 22 de julio, por el que se regula la concesión directa de subvenciones a entidades relacionadas con el patrimonio cultural y las bellas artes en el año 2026.",
+  "organ": "DIRECCIÓN GENERAL DE PATRIMONIO CULTURAL Y BELLAS ARTES",
+  "location": "MINISTERIO DE CULTURA",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "ESTADO",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146108",
+  "source": "BDNS convocatorias"
+ },
+ {
   "id": "bdns-call-1145972",
   "type": "grant_call",
   "title": "Subvención directa Fundación Universitària Balmes 2026",
@@ -861,6 +893,38 @@
   "published": "2026-11-24",
   "status": "LOCAL",
   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146069",
+  "source": "BDNS convocatorias"
+ },
+ {
+  "id": "bdns-call-1146095",
+  "type": "grant_call",
+  "title": "SUBVENCIÓN NOMINATIVA ENTRE EL AYUNTAMIENTO DE MONFORTE DEL CID Y LA ASOCIACIÓN CULTURAL COMPARSA CRISTIANOS DE MONFORTE DEL CID",
+  "summary": "SUBVENCIÓN NOMINATIVA ENTRE EL AYUNTAMIENTO DE MONFORTE DEL CID Y LA ASOCIACIÓN CULTURAL COMPARSA CRISTIANOS DE MONFORTE DEL CID",
+  "organ": "AYUNTAMIENTO DE MONFORTE DEL CID",
+  "location": "MONFORTE DEL CID",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "LOCAL",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146095",
+  "source": "BDNS convocatorias"
+ },
+ {
+  "id": "bdns-call-1146099",
+  "type": "grant_call",
+  "title": "SUBVENCIÓN NOMINATIVA ENTRE EL AYUNTAMIENTO DE MONFORTE DEL CID Y LA ASOCIACIÓN COMPARSA CONTABANDISTAS MONFORTE DEL CID",
+  "summary": "SUBVENCIÓN NOMINATIVA ENTRE EL AYUNTAMIENTO DE MONFORTE DEL CID Y LA ASOCIACIÓN COMPARSA CONTABANDISTAS MONFORTE DEL CID",
+  "organ": "AYUNTAMIENTO DE MONFORTE DEL CID",
+  "location": "MONFORTE DEL CID",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "LOCAL",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146099",
   "source": "BDNS convocatorias"
  },
  {
@@ -1469,6 +1533,22 @@
   "published": "2026-11-24",
   "status": "LOCAL",
   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146045",
+  "source": "BDNS convocatorias"
+ },
+ {
+  "id": "bdns-call-1146107",
+  "type": "grant_call",
+  "title": "SUBVENCIÓN DIRECTA AL AYUNTAMIENTO DE IBIZA POR Real Decreto 614/2026, de 22 de julio, por el que se regula la concesión directa de subvenciones a entidades relacionadas con el patrimonio cultural y las bellas artes en el año 2026.",
+  "summary": "SUBVENCIÓN DIRECTA AL AYUNTAMIENTO DE IBIZA POR Real Decreto 614/2026, de 22 de julio, por el que se regula la concesión directa de subvenciones a entidades relacionadas con el patrimonio cultural y las bellas artes en el año 2026.",
+  "organ": "DIRECCIÓN GENERAL DE PATRIMONIO CULTURAL Y BELLAS ARTES",
+  "location": "MINISTERIO DE CULTURA",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "ESTADO",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146107",
   "source": "BDNS convocatorias"
  },
  {
@@ -3008,6 +3088,22 @@
   "source": "BDNS convocatorias"
  },
  {
+  "id": "bdns-call-1146098",
+  "type": "grant_call",
+  "title": "Convocatoria para la financiación de conferencias en Másteres Universitarios Oficiales de la Universidad de Castilla-La Mancha durante el año 2027",
+  "summary": "Convocatoria para la financiación de conferencias en Másteres Universitarios Oficiales de la Universidad de Castilla-La Mancha durante el año 2027",
+  "organ": "",
+  "location": "UNIVERSIDAD DE CASTILLA-LA MANCHA",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "OTROS",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146098",
+  "source": "BDNS convocatorias"
+ },
+ {
   "id": "bdns-call-1145842",
   "type": "grant_call",
   "title": "Convocatoria instrumental Programa Democracia 2026 Consolidación de la articulación y participación de organizaciones de sociedad civil en el diálogo político y social CELAC-UE",
@@ -3053,6 +3149,22 @@
   "published": "2026-11-24",
   "status": "LOCAL",
   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1145940",
+  "source": "BDNS convocatorias"
+ },
+ {
+  "id": "bdns-call-1146096",
+  "type": "grant_call",
+  "title": "Convocatoria de ayudas para estancias docentes de profesores doctores y profesionales de reconocido prestigio invitados/as a participar en másteres universitarios oficiales de la Universidad de Castilla-La Mancha, en el año 2027",
+  "summary": "Convocatoria de ayudas para estancias docentes de profesores doctores y profesionales de reconocido prestigio invitados/as a participar en másteres universitarios oficiales de la Universidad de Castilla-La Mancha, en el año 2027",
+  "organ": "",
+  "location": "UNIVERSIDAD DE CASTILLA-LA MANCHA",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "OTROS",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146096",
   "source": "BDNS convocatorias"
  },
  {
@@ -4000,6 +4112,22 @@
   "source": "BDNS convocatorias"
  },
  {
+  "id": "bdns-call-1146103",
+  "type": "grant_call",
+  "title": "Concurso Hackathon del Aula Jeanología Mission Zero",
+  "summary": "Concurso Hackathon del Aula Jeanología Mission Zero",
+  "organ": "",
+  "location": "UNIVERSITAT POLITÈCNICA DE VALÈNCIA",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "OTROS",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146103",
+  "source": "BDNS convocatorias"
+ },
+ {
   "id": "bdns-call-1145878",
   "type": "grant_call",
   "title": "Concesión subvención nominativa a TIRME, S.A. para financiar la construcción de la planta de compostaje para la fracción orgánica, recogida selectiva y mejora de la eficiencia energética ubicada en el TM de Llucmajor.",
@@ -4128,6 +4256,38 @@
   "source": "BDNS convocatorias"
  },
  {
+  "id": "bdns-call-1146097",
+  "type": "grant_call",
+  "title": "CONVOCATORIA REGULADORAS DE LA CONCESIÓN DE LOS PREMIOS ¿CONCURSO DE FOTOGRAFÍA: LAS TRES MIRADAS TAURINAS¿",
+  "summary": "CONVOCATORIA REGULADORAS DE LA CONCESIÓN DE LOS PREMIOS ¿CONCURSO DE FOTOGRAFÍA: LAS TRES MIRADAS TAURINAS¿",
+  "organ": "PATRONATO PROVINCIAL DE TURISMO Y TAUROMAQUIA",
+  "location": "DIPUTACIÓN PROV. DE BADAJOZ",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "LOCAL",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146097",
+  "source": "BDNS convocatorias"
+ },
+ {
+  "id": "bdns-call-1146092",
+  "type": "grant_call",
+  "title": "CONVOCATORIA REGULADORA DE SUBVENCIONES PARA PROGRAMA DE TURISMO TERMAL DE LA PROVINCIA DE BADAJOZ 2027 DE LA DIPUTACIÓN DE BADAJOZ",
+  "summary": "CONVOCATORIA REGULADORA DE SUBVENCIONES PARA PROGRAMA DE TURISMO TERMAL DE LA PROVINCIA DE BADAJOZ 2027 DE LA DIPUTACIÓN DE BADAJOZ",
+  "organ": "DIPUTACIÓN PROVINCIAL DE BADAJOZ",
+  "location": "DIPUTACIÓN PROV. DE BADAJOZ",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "LOCAL",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146092",
+  "source": "BDNS convocatorias"
+ },
+ {
   "id": "bdns-call-1145748",
   "type": "grant_call",
   "title": "CONVOCATORIA PÚBLICA PARA LA CONCESIÓN DE PREMIOS A LA PARTICIPACIÓN EN LA RÚA DE CARNAVAL 2027 DEL AYUNTAMIENTO DE VILADECANS - LÍNEA 36/30000 – PREMIOS RUA DE CARNAVAL",
@@ -4157,6 +4317,22 @@
   "published": "2026-11-24",
   "status": "LOCAL",
   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1145850",
+  "source": "BDNS convocatorias"
+ },
+ {
+  "id": "bdns-call-1146094",
+  "type": "grant_call",
+  "title": "CONVOCATORIA PÚBLICA DE AYUDAS AL ESTUDIO PARA LOS ESTUDIANTES DE FUENCALIENTE DE LA PALMA CORRESPONDIENTE AL EJERCICIO 2026",
+  "summary": "CONVOCATORIA PÚBLICA DE AYUDAS AL ESTUDIO PARA LOS ESTUDIANTES DE FUENCALIENTE DE LA PALMA CORRESPONDIENTE AL EJERCICIO 2026",
+  "organ": "AYUNTAMIENTO DE FUENCALIENTE DE LA PALMA",
+  "location": "FUENCALIENTE DE LA PALMA",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "LOCAL",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146094",
   "source": "BDNS convocatorias"
  },
  {
@@ -4208,6 +4384,22 @@
   "source": "BDNS convocatorias"
  },
  {
+  "id": "bdns-call-1146106",
+  "type": "grant_call",
+  "title": "CONVOCATORIA INSTRUMENTAL CARICOM 2026 3 EXPEDIENTE UNICO 26CLT1000143",
+  "summary": "CONVOCATORIA INSTRUMENTAL CARICOM 2026 3 EXPEDIENTE UNICO 26CLT1000143",
+  "organ": "AGENCIA ESTATAL AGENCIA ESPAÑOLA DE COOPERACIÓN INTERNACIONAL PARA EL DESARROLLO",
+  "location": "MINISTERIO DE ASUNTOS EXTERIORES, UNIÓN EUROPEA Y COOPERACIÓN",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "ESTADO",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146106",
+  "source": "BDNS convocatorias"
+ },
+ {
   "id": "bdns-call-1146080",
   "type": "grant_call",
   "title": "CONVOCATORIA DE SUBVENCIONES, EN TRAMITACION ANTICIPADA, DEL ÁREA DE AGRICULTURA, GANADERÍA, MEDIO AMBIENTE Y CAMBIO CLIMÁTICO DE LA DIPUTACIÓN PROVINCIAL DE JAÉN PARA EL FOMENTO Y APOYO AL SECTOR AGRÍCOLA Y GANADERO DE LA PROVINCIA DE JAÉN 2027",
@@ -4253,6 +4445,22 @@
   "published": "2026-11-24",
   "status": "LOCAL",
   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1145749",
+  "source": "BDNS convocatorias"
+ },
+ {
+  "id": "bdns-call-1146091",
+  "type": "grant_call",
+  "title": "CONVOCATORIA BECAS AL MÉRITO DEPORTIVO ENGUERA 2026",
+  "summary": "CONVOCATORIA BECAS AL MÉRITO DEPORTIVO ENGUERA 2026",
+  "organ": "AYUNTAMIENTO DE ENGUERA",
+  "location": "ENGUERA",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "LOCAL",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146091",
   "source": "BDNS convocatorias"
  },
  {
@@ -4413,6 +4621,22 @@
   "published": "2026-11-24",
   "status": "AUTONOMICA",
   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146028",
+  "source": "BDNS convocatorias"
+ },
+ {
+  "id": "bdns-call-1146104",
+  "type": "grant_call",
+  "title": "CONVENIO DE COLABORACIÓN ENTRE LA CONSELLERÍA DE PRESIDENCIA, JUSTICIA Y DEPORTES Y LA FUNDACIÓN ANDREA PARA EL DESARROLLO DE UN PROYECTO DE CREACIÓN DE ESPACIOS JUDICIALES DESTINADOS A PERSONAS MENORES DE EDAD",
+  "summary": "CONVENIO DE COLABORACIÓN ENTRE LA CONSELLERÍA DE PRESIDENCIA, JUSTICIA Y DEPORTES Y LA FUNDACIÓN ANDREA PARA EL DESARROLLO DE UN PROYECTO DE CREACIÓN DE ESPACIOS JUDICIALES DESTINADOS A PERSONAS MENORES DE EDAD",
+  "organ": "CONSELLERÍA DE PRESIDENCIA, JUSTICIA Y DEPORTES",
+  "location": "GALICIA",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "AUTONOMICA",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146104",
   "source": "BDNS convocatorias"
  },
  {
@@ -5117,6 +5341,22 @@
   "published": "2026-11-24",
   "status": "AUTONOMICA",
   "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1145912",
+  "source": "BDNS convocatorias"
+ },
+ {
+  "id": "bdns-call-1146105",
+  "type": "grant_call",
+  "title": "AYUDAS PARA LA ADQUISICIÓN DE JUGUETES NAVIDAD 2026-2027",
+  "summary": "AYUDAS PARA LA ADQUISICIÓN DE JUGUETES NAVIDAD 2026-2027",
+  "organ": "AYUNTAMIENTO DE LLERENA",
+  "location": "LLERENA",
+  "nuts": "",
+  "cpv": "",
+  "amount": null,
+  "deadline": "",
+  "published": "2026-11-24",
+  "status": "LOCAL",
+  "url": "https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/1146105",
   "source": "BDNS convocatorias"
  },
  {
