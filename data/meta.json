@@ -1,9 +1,9 @@
 {
- "generated_at": "2026-11-25T15:33:06Z",
- "total": 978,
- "new": 15,
+ "generated_at": "2026-11-26T15:07:42Z",
+ "total": 1298,
+ "new": 320,
  "contracts": 98,
- "grant_calls": 880,
+ "grant_calls": 1200,
  "errors": [],
  "sources": [
   "PLACE",
